@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Serializer"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.core.Persister"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Attribute"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.Text"/>
+<fullyQualifiedTypeName name="org.simpleframework.xml.ElementList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
